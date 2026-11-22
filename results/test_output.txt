@@ -1,0 +1,12 @@
+test_all_within_radius (test_neighbor_search.NeighborSearchTests.test_all_within_radius) ... ok
+test_cell_boundary_and_cutoff (test_neighbor_search.NeighborSearchTests.test_cell_boundary_and_cutoff) ... ok
+test_duplicate_coordinates (test_neighbor_search.NeighborSearchTests.test_duplicate_coordinates) ... ok
+test_empty_and_single (test_neighbor_search.NeighborSearchTests.test_empty_and_single) ... ok
+test_invalid_input (test_neighbor_search.NeighborSearchTests.test_invalid_input) ... ok
+test_negative_coordinates (test_neighbor_search.NeighborSearchTests.test_negative_coordinates) ... ok
+test_random_clouds (test_neighbor_search.NeighborSearchTests.test_random_clouds) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.015s
+
+OK

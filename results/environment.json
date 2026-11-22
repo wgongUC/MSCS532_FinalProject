@@ -1,0 +1,9 @@
+{
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "processor": "AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD",
+  "repeats": 5,
+  "seed_rule": "532 + n",
+  "measured_at_utc": "2026-11-22T22:40:19Z",
+  "notes": "Single process; grid build included; output materialized; no CPU affinity or isolation; no peak-memory measurements."
+}
